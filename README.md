@@ -4,6 +4,8 @@ This example is just [the example sketch](https://github.com/adafruit/Adafruit_M
 parameter changes to make it work with a 1K RTD.
 
 The reference resistor was changed to 2.7K in order to work better with
-the 1K RTD that we have here at [FirstBuild](https://firstbuild.com/).
+the 1K RTD that we have here at [FirstBuild](https://firstbuild.com/). Additionally, the appropriate pads
+were shorted for use with a 2-wire RTD.
+
 
 
